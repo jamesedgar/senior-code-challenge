@@ -135,3 +135,9 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/java,gradle,intellij
+/.idea/$PRODUCT_WORKSPACE_FILE$
+/.idea/.gitignore
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/New Text Document.txt
+/.idea/vcs.xml
